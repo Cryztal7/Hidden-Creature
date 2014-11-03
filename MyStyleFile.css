@@ -18,4 +18,16 @@ p {
 
 p#beta {
   background-color: fuchsia;
+p1 {
+  background-color: crimson;
+  font-style: italic;
+  padding: 1em;
+  border-radius: 1em;
 }
+p2 {
+  background-color: pink;
+  padding: 1em;
+  border-radius: 1em;
+  font-style: italic;
+}
+
