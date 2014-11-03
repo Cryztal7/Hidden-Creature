@@ -1,0 +1,21 @@
+body {
+  background-color: cyan;
+}
+h1 {
+  color: navy
+  text-align: center;
+  padding-top: 1em;
+  font: Chiller, Arial;
+}
+
+p {
+  color: #fff;
+  font-style: italic;
+  background-color: chartreuse;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+p#beta {
+  background-color: fuchsia;
+}
